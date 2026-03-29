@@ -1,4 +1,4 @@
-### Vocea — Personal Memory Companion
+### Your Personal Memory Companion
 Vocea is your personal memory companion.
 
 Capture your thoughts, moments, and ideas using voice or text, and find them later just by asking.
