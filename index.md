@@ -7,34 +7,34 @@ Whether it’s a quick idea, a conversation you don’t want to forget, or somet
 
 🎙 Capture your memories
 
-• Record voice notes or write them down in seconds.
-• Vocea converts your voice into text so your memories are easy to search later.
+- Record voice notes or write them down in seconds.
+- Vocea converts your voice into text so your memories are easy to search later.
 
 🔍 Ask your memories
 
 Simply ask a question like:
 
-• “What did I say about my vacation plans?”
-• “Did I note anything about my doctor visit?”
+- “What did I say about my vacation plans?”
+- “Did I note anything about my doctor visit?”
 
 Vocea answers based only on what you’ve recorded — nothing else.
 
 🌍 Speak in your language
 
-• Use Vocea in the language you’re most comfortable with.
-• Your memories stay in your chosen language, just the way you said them.
+- Use Vocea in the language you’re most comfortable with.
+- Your memories stay in your chosen language, just the way you said them.
 
 🔒 Private by design
 
-• Your memories stay on your device.
-• No accounts. No syncing. No sharing.
+- Your memories stay on your device.
+- No accounts. No syncing. No sharing.
 
 ⚡ Simple and focused
 
-• Record voice memories
-• Write text notes
-• Browse and replay memories
-• Ask questions and get answers from your own data
+- Record voice memories
+- Write text notes
+- Browse and replay memories
+- Ask questions and get answers from your own data
 
 Vocea is built for everyday life — simple, personal, and always within reach.
 
